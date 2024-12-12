@@ -22,6 +22,7 @@ public class CollisionHandeller : MonoBehaviour
 
     private void Start()
     {
+        Debug.Log("Mustafadan merhabalar");
         audioSource=GetComponent<AudioSource>();
 
     }
